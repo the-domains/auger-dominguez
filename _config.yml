@@ -1,6 +1,6 @@
 name: auger-dominguez
 favicon: null
-layout_spectrum: 0.8113054677378386
+layout_spectrum: 1
 typography_spectrum: 0.7570461758878082
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.5516517655923963
-  lightness: 0.47582932305522263
-  saturation: 0.09296638355590403
-  rhythmicContrast: 0.1373796770349145
+    - '#ffffff'
+    - '#636363'
+    - '#c3c3c3'
+    - '#9a0000'
+    - '#b94b4d'
+  brandStrength: 0.375
+  lightness: 0.4375
+  saturation: 0.8125
+  rhythmicContrast: 0.5
 purpose: []
