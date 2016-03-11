@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[auger-dominguez]]></title>
+        <description><![CDATA[auger-dominguez]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 11 Mar 2016 06:08:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Baldacci Vineyards at the cusp of spring]]></title>
+            <description><![CDATA[<article><h1>Baldacci Vineyards at the cusp of spring</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/efdf5912f17b17c3958daf69cd5b23aa94b52a86.jpg"></article>]]></description>
+            <link>undefinedbaldacci-vineyards-at-the-cusp-of-spring/index.html</link>
+            <guid isPermaLink="false">76cc868c-3446-42c7-a1a8-ad10444798c1</guid>
+            <pubDate>Fri, 11 Mar 2016 06:08:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
