@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Christopher Auger-Domínguez Photography]]></title>
-        <description><![CDATA[Christopher Auger-Domínguez Photography]]></description>
+        <title><![CDATA[Christopher Auger-Domínguez]]></title>
+        <description><![CDATA[Christopher Auger-Domínguez]]></description>
         <link>https://thegrid.ai/auger-dominguez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 11 Mar 2016 08:32:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Aug 2016 19:31:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/auger-dominguez/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Baldacci Vineyards at the cusp of Spring]]></title>
-            <description><![CDATA[<article><h1>Baldacci Vineyards at the cusp of Spring</h1><p>I recently visited the Baldacci Vineyards as a part of a project to document the seasonal changes of the vineyard throughout the year.  This trip was wet and foggy, drizzling on and off throughout the day - a weather system happen to be dumping a lot of much needed rain into the region.   It was actually very refreshing and made for some dramatic imagery but wasn't great for drone flying.</p></article>]]></description>
+            <description><![CDATA[<p>I recently visited the Baldacci Vineyards as a part of a project to document the seasonal changes of the vineyard throughout the year.  This trip was wet and foggy, drizzling on and off throughout the day - a weather system happen to be dumping a lot of much needed rain into the region.   It was actually very refreshing and made for some dramatic imagery but wasn't great for drone flying.</p>]]></description>
             <link>https://thegrid.ai/auger-dominguez/baldacci-vineyards-at-the-cusp-of-spring/index.html</link>
             <guid isPermaLink="false">76cc868c-3446-42c7-a1a8-ad10444798c1</guid>
             <pubDate>Fri, 11 Mar 2016 08:32:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WOLF Summer 2016]]></title>
+            <description><![CDATA[<article><h1>WOLF Summer 2016</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/895eae94-ed02-42d2-a0a7-5deaaa4960e7.jpg"></article>]]></description>
+            <link>https://thegrid.ai/auger-dominguez/wolf-summer-2016/index.html</link>
+            <guid isPermaLink="false">93300c89-84b8-4860-9a75-357b4196c64f</guid>
+            <pubDate>Sat, 13 Aug 2016 19:31:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
