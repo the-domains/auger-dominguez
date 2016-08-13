@@ -19,7 +19,10 @@ analytics:
   google: UA-69175424-2
   facebook: null
   twitter: null
-name: auger-dominguez
+author:
+  email: christopher@auger-dominguez.com
+  name: Christopher Auger-Dominguez
+name: Christopher Auger-Dominguez
 cta:
   domain: null
   bucket: null
