@@ -1,20 +1,4 @@
-name: auger-dominguez
-favicon: null
-layout_spectrum: 0.448
 typography_spectrum: 0.50297
-title: Christopher Auger-Domínguez Photography
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-69175424-2
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,21 @@ color:
   lightness: 0.4375
   saturation: 0.8125
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.448
+analytics:
+  google: UA-69175424-2
+  facebook: null
+  twitter: null
+name: auger-dominguez
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Christopher Auger-Domínguez Photography
+description: 'Photographer, Geographer, Drone Pilot'
 purpose: []
